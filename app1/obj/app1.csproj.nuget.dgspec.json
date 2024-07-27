@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\my\\projects\\app1\\app1\\app1.csproj": {}
+    "E:\\my\\projects\\app1\\TestgithubActions\\Test-github-actions\\app1\\app1.csproj": {}
   },
   "projects": {
-    "E:\\my\\projects\\app1\\app1\\app1.csproj": {
+    "E:\\my\\projects\\app1\\TestgithubActions\\Test-github-actions\\app1\\app1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\my\\projects\\app1\\app1\\app1.csproj",
+        "projectUniqueName": "E:\\my\\projects\\app1\\TestgithubActions\\Test-github-actions\\app1\\app1.csproj",
         "projectName": "app1",
-        "projectPath": "E:\\my\\projects\\app1\\app1\\app1.csproj",
+        "projectPath": "E:\\my\\projects\\app1\\TestgithubActions\\Test-github-actions\\app1\\app1.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "E:\\my\\projects\\app1\\app1\\obj\\",
+        "outputPath": "E:\\my\\projects\\app1\\TestgithubActions\\Test-github-actions\\app1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
